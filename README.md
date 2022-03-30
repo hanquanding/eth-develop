@@ -13,6 +13,8 @@ git clone https://github.com/hqd8080/eth-develop
 ```
 cd eth-develop
 
+mkdir data
+
 geth init genesis.json --datadir ./data
 ```
 
